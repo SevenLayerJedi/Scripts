@@ -14,10 +14,6 @@ Caffeine
 
 If you don't understand how to get something working, please go to www.google.com
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
 ## Contributing
 
 Do not contribute!
