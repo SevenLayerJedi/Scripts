@@ -1,0 +1,3 @@
+# Example of downloading a file via ssh to c:\temp
+pscp -i c:\sshkeys\ssh.ppk admin@contoso.local:/tmp/Archive.tar.gz c:\temp
+

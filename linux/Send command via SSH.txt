@@ -1,0 +1,2 @@
+# Example of sending one command via SSH
+plink -ssh -i "C:\SSHKeys\myPrivateSSHKey.ppk" admin@10.10.10.10 "ls"
